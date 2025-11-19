@@ -56,7 +56,7 @@ st.markdown("""
 }
 
 [data-testid="stMetric"] {
-    background-color: #f5f5f5;   /* 밝은 회색 */
+    background-color: #d6eaff;   /* 밝은 회색 */
     color: #000000;              /* 글자가 보이도록 검정 */
     text-align: center;
     padding: 15px 0;
